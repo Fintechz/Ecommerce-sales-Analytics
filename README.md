@@ -22,3 +22,17 @@ Steps in project
 8.	Data Visualization
 9.	Creating Dashboard
 10.	Generating Insights
+
+This project is to understand 
+1. How to connect power BI to MS SQL server and Flat Files
+2. Data Modelling with three tables
+3. Data cleaning in power query
+4. How to create Date table in power BI
+5. Time itelligence functions(TOTALYTD, SAMEPERIODLASTYEAR, etc)
+6. Creating Dynamic and Complex KPIs
+7. Basic to Advanced DAX Queries
+8. Conditional formatting's, Adding dynamic icons in the power BI
+9. Different DAX functions like Calculate, Sum, Sumx, Filter, values, selectedvalue, return,concatenation, divide, var, etc..
+10. Creating different charts, maps and formatting
+11. Generating insights from charts
+12. Export report
